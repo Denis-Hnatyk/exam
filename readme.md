@@ -41,4 +41,5 @@ print(f"Глобальний інкремент для player3: {player3.global_
 ```
 
 1. Програма видала такі значення:
+   
 ![alt-text](https://github.com/Gytopia/exam/blob/main/Pictures/Screenshot_1.png "1")
