@@ -13,7 +13,7 @@ class CasinoPlayer:
         if self.number == 1:
             self.win = self.bet * 5
         elif self.number == 2:
-            self.win = self.bet * 2
+            self.win = self.bet * 3
         else:
             self.win = 0
 
